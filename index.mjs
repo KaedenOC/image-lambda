@@ -30,7 +30,7 @@ export const handler = async(event) => {
     imageDetails.push(newImageDetails);
     console.log('image details array', imageDetails);
     
-    let strDetails = JSON.stringify(imageDetails); //stringify the array
+    let strDetails = JSON.stringify(imageDetails, undefined, '  '); //stringify the array
     
     
     //put command
