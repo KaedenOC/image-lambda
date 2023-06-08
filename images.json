@@ -1,17 +1,17 @@
-{
-  "image1":{
+[
+    {
       "name": "test",
       "size": "1080",
-      "type": "jpg"
-  },
-  "image2":{
+      "type": ".jpg"
+    },
+    {
       "name": "test",
       "size": "1080",
-      "type": "jpg"
-  },
-  "image3":{
+      "type": ".jpg"
+    },
+    {
       "name": "test",
       "size": "1080",
-      "type": "jpg"
-  }
-}
+      "type": ".jpg"
+    }
+  ]
