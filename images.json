@@ -1,0 +1,17 @@
+{
+  "image1":{
+      "name": "test",
+      "size": "1080",
+      "type": "jpg"
+  },
+  "image2":{
+      "name": "test",
+      "size": "1080",
+      "type": "jpg"
+  },
+  "image3":{
+      "name": "test",
+      "size": "1080",
+      "type": "jpg"
+  }
+}
